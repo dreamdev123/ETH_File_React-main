@@ -1,0 +1,5 @@
+MAINNET="mainnet"
+GOERLI="goerli"
+KOVAN="kovan"
+RINKEBY="rinkeby"
+ROPSTEN="ropsten"
